@@ -1,0 +1,5 @@
+D:\IDEAProject\cinema\infrastructure\gateway\src\main\java\com\atguigu\gateway\config\CorsConfig.java
+D:\IDEAProject\cinema\infrastructure\gateway\src\main\java\com\atguigu\gateway\handler\ErrorHandlerConfig.java
+D:\IDEAProject\cinema\infrastructure\gateway\src\main\java\com\atguigu\gateway\handler\JsonExceptionHandler.java
+D:\IDEAProject\cinema\infrastructure\gateway\src\main\java\com\atguigu\gateway\ApiGatewayApplication.java
+D:\IDEAProject\cinema\infrastructure\gateway\src\main\java\com\atguigu\gateway\filter\AuthGlobalFilter.java
